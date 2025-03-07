@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "Exost Fan",
+    "price": 1500,
+    "description": "Fan by Crompton",
+    "category": "cromton",
+    "image": "/img/exost fan.webp",
+    "alt": "Exost Fan by Crompton - High-speed motor, Energy-efficient",
+    "rating": {
+      "rate": 4.5,
+      "count": 200
+    },
+    "productInfo": {
+      "features": "High-speed motor, Energy-efficient",
+      "warranty": "2 years",
+      "materials": "Plastic, Metal",
+      "dimensions": "12 x 12 x 18 inches"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Selling Fan",
+    "price": 1500,
+    "description": "Fan by Anchor",
+    "category": "syska",
+    "image": "/img/Seling Fan image.webp",
+    "alt": "Selling Fan by Anchor - Remote controlled, Silent operation",
+    "rating": {
+      "rate": 4.2,
+      "count": 150
+    },
+    "productInfo": {
+      "features": "Remote controlled, Silent operation",
+      "warranty": "1 year",
+      "materials": "Plastic, Steel",
+      "dimensions": "14 x 14 x 20 inches"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Pedesti Fan",
+    "price": 1500,
+    "description": "Fan by Crompton",
+    "category": "bajaj",
+    "image": "/img/Pedesti Fan images.webp",
+    "alt": "Pedesti Fan by Crompton - Silent and efficient cooling",
+    "rating": {
+      "rate": 4.1,
+      "count": 180
+    }
+  },
+  {
+    "id": 4,
+    "title": "Wall Fan",
+    "price": 1500,
+    "description": "Fan by Orient",
+    "category": "syska",
+    "image": "/img/wall-Fan.webp",
+    "alt": "Wall Fan by Orient - Quiet operation, Compact design",
+    "rating": {
+      "rate": 4.3,
+      "count": 250
+    }
+  }
+]
